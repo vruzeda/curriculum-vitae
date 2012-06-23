@@ -1,4 +1,1 @@
-curriculum-vitae
-================
-
 Curriculum Vitae
